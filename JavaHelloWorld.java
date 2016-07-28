@@ -4,5 +4,6 @@ public class JavaHelloWorld
    {
        System.out.printin("Java Hello World");
        System.out.printin("Hello again");
+       System.out.println("Test");
     }
 }
